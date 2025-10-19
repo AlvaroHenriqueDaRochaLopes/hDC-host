@@ -30,3 +30,6 @@ O site foi desenvolvido com boas práticas de design responsivo, garantindo uma 
 💡 Objetivo do projeto
 
 Este projeto foi criado com o intuito de praticar HTML e CSS, além de aprimorar conhecimentos sobre estruturação de páginas web e responsividade.
+
+
+GitHub pages: https://alvarohenriquedarochalopes.github.io/hDC-host/
